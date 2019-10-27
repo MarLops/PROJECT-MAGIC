@@ -2,7 +2,7 @@
 
 ## CRAWLER
 
-- [] create a simple .py to get all set'urls and save as .csv
+- [x] create a simple .py to get all set'urls and save as .csv
 
 - [] get all cards from .csv and save as .sql
 
