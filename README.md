@@ -48,6 +48,8 @@ Learning crawler , db, pep8, multiprocessing and datascience and apply all toget
 
 - [ ] Unitest (see unitest)
 
+- [] make eveythin in spacy
+
 ####  DB
 
 - [ ] Learning .sql
