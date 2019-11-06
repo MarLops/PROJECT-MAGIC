@@ -11,10 +11,10 @@ def all_sets(root_path):
 # convert to dict
 def convert_dict(set_magic):
     new_format = dict()
-    new_format["baseSetSize"] = set_magic["baseSetSize"]]
+    new_format["baseSetSize"] = set_magic["baseSetSize"]
     new_format["baseSetSize"] = set_magic["baseSetSize"]
     new_format["parentCode"] = set_magic["code"]
-    new_format["link"] = urljoin(urljoin("https://www.mtgjson.com/json/", set_magic["code"]),".json")
+    new_format["link"] = urljoin("https://www.mtgjson.com/json/", set_magic["code"]) + ".json"
     new_format["totalSetSize"] = set_magic["totalSetSize"]
     new_format["type"] = set_magic["type"]
     new_format["name"] = set_magic["name"]
@@ -30,6 +30,5 @@ def pipeline(root_path):
     return df
 
 root_path = "https://mtgjson.com/json/SetList.json"
-df = pipeline()
-
-    
+df = pipeline(root_path)
+df.to_csv("all_sets.csv")
