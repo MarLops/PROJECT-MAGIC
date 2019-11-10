@@ -31,4 +31,3 @@ def pipeline(root_path):
 
 root_path = "https://mtgjson.com/json/SetList.json"
 df = pipeline(root_path)
-df.to_csv("all_sets.csv")
