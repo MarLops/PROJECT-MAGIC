@@ -41,3 +41,5 @@ Learn request.get() and save .json as dataframe and/or .db and/or mongodb
 - [ ] Save in mongodb
 
 - [X] Create requirements.txt
+
+- [X] Craete api_test in postman
