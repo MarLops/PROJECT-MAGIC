@@ -5,6 +5,10 @@ def read_of_set(url_set):
     return requests.get(url_set).json()
 
 def new_format(card):
+    """
+    Return card in new format
+    card = dict 
+    """
     new_format = dict()
     all_metatada_single = ["artist","flavorText","manaCost","name","text","type","convertedManaCost","rarity"]
     all_metadada_array = ["colorIdentity","colors","types"]
