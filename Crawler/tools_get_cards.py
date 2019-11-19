@@ -9,6 +9,7 @@ def new_format(card):
     Return card in new format
     card = dict 
     """
+    #12 metadada
     new_format = dict()
     all_metatada_single = ["artist","flavorText","manaCost","name","text","type","convertedManaCost","rarity"]
     all_metadada_array = ["colorIdentity","colors","types"]
@@ -19,13 +20,19 @@ def new_format(card):
 
     for metadata in all_metadada_array:
         try:
-            new_format[metadata] = "|".join([i for i in check_exist(card,metadata)])
+            if check_exist(card,metadata) == []:
+                new_format[metadata] = "Null"
+            else:
+                new_format[metadata] = "|".join([i for i in check_exist(card,metadata)])
         except:
             new_format[metadata] = "Null"
 
     for metadata in all_metadada_dict:
         try:
-            new_format[metadata] = Arry_format_to_string(check_exist(card,metadata),metadata)
+            if check_exist(card,metadata) == "Null":
+                new_format[metadata] = "Null"
+            else:
+                new_format[metadata] = Arry_format_to_string(check_exist(card,metadata),metadata)
         except:
             new_format[metadata] = "Null"
     
