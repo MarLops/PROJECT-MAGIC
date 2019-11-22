@@ -62,7 +62,7 @@ def pipeline(set_cards):
     cursor = connection.cursor()
 
     #create a table
-    create_table = f'CREATE TABLE IF NOT EXISTS {name_set} (artist text, flavorText text, manaCost text, name text PRIMARY KEY, text text, type text, convertedManaCost real, rarity text, colorIdentity text, colors text, types text, legalities text)'
+    create_table = f'CREATE TABLE IF NOT EXISTS {name_set} (artist text, flavorText text, manaCost text, name text , text text, type text, convertedManaCost real, rarity text, colorIdentity text, colors text, types text, legalities text)'
     cursor.execute(create_table)
 
     #insert
@@ -70,8 +70,10 @@ def pipeline(set_cards):
     for card in cards:
         try:
             cursor.execute(insert_query,(card['artist'],card['flavorText'],card['manaCost'],card['name'],card['text'],card['type'],card['convertedManaCost'],card['rarity'],card['colorIdentity'],card['colors'],card['types'],card['legalities']))
-        except:
+        except Exception as e:
             print ("ERRO")
+            print (card)
+            print (e)
     connection.commit()
     connection.close()
 def get_pool(n_th: int):
