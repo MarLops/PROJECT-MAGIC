@@ -1,3 +1,7 @@
+'''
+Get the list of sets (information like number of cards) and put in .csv
+'''
+
 import requests
 import pandas as pd
 from urllib.parse import urljoin

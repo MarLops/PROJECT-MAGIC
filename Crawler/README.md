@@ -36,9 +36,9 @@ Learn request.get() and save .json as dataframe and/or .db and/or mongodb
 
 - [X] Save as dataframe (pipeline_cards.py)
 
-- [ ] Save as .db
+- [X] Save as .db
 
-- [ ] Save in mongodb
+- [X] Save in mongodb
 
 - [X] Create requirements.txt
 

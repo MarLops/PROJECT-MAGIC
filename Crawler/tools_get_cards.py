@@ -1,3 +1,6 @@
+'''
+function to prepare the card'data
+'''
 #creat tools to get all cards
 import requests
 

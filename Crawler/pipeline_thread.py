@@ -1,4 +1,6 @@
-### Second model to get all cards os magic - Using worker
+'''
+Save the cards in dataframe, using threads
+'''
 
 import tools_get_cards as tcard
 from threading import Event, Thread
