@@ -1,0 +1,461 @@
+,baseSetSize,link,name,parentCode,totalSetSize,type
+0,0,https://www.mtgjson.com/json/P15A.json,15th Anniversary Cards,P15A,2,promo
+1,0,https://www.mtgjson.com/json/HTR.json,2016 Heroes of the Realm,HTR,3,funny
+2,0,https://www.mtgjson.com/json/G17.json,2017 Gift Pack,G17,5,box
+3,0,https://www.mtgjson.com/json/HTR17.json,2017 Heroes of the Realm,HTR17,3,funny
+4,0,https://www.mtgjson.com/json/PLNY.json,2018 Lunar New Year,PLNY,1,promo
+5,184,https://www.mtgjson.com/json/AER.json,Aether Revolt,AER,197,expansion
+6,0,https://www.mtgjson.com/json/PAER.json,Aether Revolt Promos,PAER,58,promo
+7,145,https://www.mtgjson.com/json/ARB.json,Alara Reborn,ARB,145,expansion
+8,199,https://www.mtgjson.com/json/ALL.json,Alliances,ALL,199,expansion
+9,269,https://www.mtgjson.com/json/AKH.json,Amonkhet,AKH,287,expansion
+10,54,https://www.mtgjson.com/json/MP2.json,Amonkhet Invocations,MP2,54,masterpiece
+11,0,https://www.mtgjson.com/json/PAKH.json,Amonkhet Promos,PAKH,72,promo
+12,0,https://www.mtgjson.com/json/ATH.json,Anthologies,ATH,85,box
+13,100,https://www.mtgjson.com/json/ATQ.json,Antiquities,ATQ,101,expansion
+14,143,https://www.mtgjson.com/json/APC.json,Apocalypse,APC,143,expansion
+15,78,https://www.mtgjson.com/json/ARN.json,Arabian Nights,ARN,92,expansion
+16,0,https://www.mtgjson.com/json/ARC.json,Archenemy,ARC,150,archenemy
+17,0,https://www.mtgjson.com/json/OARC.json,Archenemy Schemes,OARC,45,archenemy
+18,0,https://www.mtgjson.com/json/E01.json,Archenemy: Nicol Bolas,E01,106,archenemy
+19,0,https://www.mtgjson.com/json/OE01.json,Archenemy: Nicol Bolas Schemes,OE01,20,archenemy
+20,0,https://www.mtgjson.com/json/PARL.json,Arena League 1996,PARL,7,promo
+21,0,https://www.mtgjson.com/json/PAL99.json,Arena League 1999,PAL99,10,promo
+22,0,https://www.mtgjson.com/json/PAL00.json,Arena League 2000,PAL00,11,promo
+23,0,https://www.mtgjson.com/json/PAL01.json,Arena League 2001,PAL01,12,promo
+24,0,https://www.mtgjson.com/json/PAL02.json,Arena League 2002,PAL02,5,promo
+25,0,https://www.mtgjson.com/json/PAL03.json,Arena League 2003,PAL03,8,promo
+26,0,https://www.mtgjson.com/json/PAL04.json,Arena League 2004,PAL04,14,promo
+27,0,https://www.mtgjson.com/json/PAL05.json,Arena League 2005,PAL05,8,promo
+28,0,https://www.mtgjson.com/json/PAL06.json,Arena League 2006,PAL06,9,promo
+29,0,https://www.mtgjson.com/json/ANA.json,Arena New Player Experience,ANA,51,starter
+30,0,https://www.mtgjson.com/json/PALP.json,Asia Pacific Land Program,PALP,15,promo
+31,244,https://www.mtgjson.com/json/AVR.json,Avacyn Restored,AVR,244,expansion
+32,0,https://www.mtgjson.com/json/PAVR.json,Avacyn Restored Promos,PAVR,5,promo
+33,0,https://www.mtgjson.com/json/PSS1.json,BFZ Standard Series,PSS1,5,promo
+34,0,https://www.mtgjson.com/json/BRB.json,Battle Royale Box Set,BRB,136,box
+35,274,https://www.mtgjson.com/json/BFZ.json,Battle for Zendikar,BFZ,299,expansion
+36,0,https://www.mtgjson.com/json/PBFZ.json,Battle for Zendikar Promos,PBFZ,78,promo
+37,0,https://www.mtgjson.com/json/TBTH.json,Battle the Horde,TBTH,15,token
+38,256,https://www.mtgjson.com/json/BBD.json,Battlebond,BBD,256,draft_innovation
+39,0,https://www.mtgjson.com/json/PBBD.json,Battlebond Promos,PBBD,22,promo
+40,0,https://www.mtgjson.com/json/BTD.json,Beatdown Box Set,BTD,90,box
+41,165,https://www.mtgjson.com/json/BOK.json,Betrayers of Kamigawa,BOK,165,expansion
+42,165,https://www.mtgjson.com/json/BNG.json,Born of the Gods,BNG,165,expansion
+43,0,https://www.mtgjson.com/json/THP2.json,Born of the Gods Hero's Path,THP2,7,token
+44,0,https://www.mtgjson.com/json/PBNG.json,Born of the Gods Promos,PBNG,9,promo
+45,0,https://www.mtgjson.com/json/PCEL.json,Celebration Cards,PCEL,7,memorabilia
+46,306,https://www.mtgjson.com/json/CHK.json,Champions of Kamigawa,CHK,307,expansion
+47,0,https://www.mtgjson.com/json/PCMP.json,Champs and States,PCMP,12,promo
+48,125,https://www.mtgjson.com/json/CHR.json,Chronicles,CHR,125,masters
+49,350,https://www.mtgjson.com/json/6ED.json,Classic Sixth Edition,6ED,350,core
+50,155,https://www.mtgjson.com/json/CSP.json,Coldsnap,CSP,155,expansion
+51,0,https://www.mtgjson.com/json/CST.json,Coldsnap Theme Decks,CST,62,box
+52,0,https://www.mtgjson.com/json/CED.json,Collectors’ Edition,CED,302,memorabilia
+53,0,https://www.mtgjson.com/json/CMD.json,Commander 2011,CMD,318,commander
+54,0,https://www.mtgjson.com/json/PCMD.json,Commander 2011 Launch Party,PCMD,5,memorabilia
+55,0,https://www.mtgjson.com/json/OCMD.json,Commander 2011 Oversized,OCMD,15,memorabilia
+56,0,https://www.mtgjson.com/json/C13.json,Commander 2013,C13,356,commander
+57,0,https://www.mtgjson.com/json/OC13.json,Commander 2013 Oversized,OC13,15,memorabilia
+58,0,https://www.mtgjson.com/json/C14.json,Commander 2014,C14,337,commander
+59,0,https://www.mtgjson.com/json/OC14.json,Commander 2014 Oversized,OC14,5,memorabilia
+60,0,https://www.mtgjson.com/json/C15.json,Commander 2015,C15,342,commander
+61,0,https://www.mtgjson.com/json/OC15.json,Commander 2015 Oversized,OC15,5,memorabilia
+62,0,https://www.mtgjson.com/json/C16.json,Commander 2016,C16,351,commander
+63,0,https://www.mtgjson.com/json/OC16.json,Commander 2016 Oversized,OC16,5,memorabilia
+64,0,https://www.mtgjson.com/json/C17.json,Commander 2017,C17,309,commander
+65,0,https://www.mtgjson.com/json/OC17.json,Commander 2017 Oversized,OC17,4,memorabilia
+66,0,https://www.mtgjson.com/json/C18.json,Commander 2018,C18,307,commander
+67,0,https://www.mtgjson.com/json/OC18.json,Commander 2018 Oversized,OC18,4,memorabilia
+68,0,https://www.mtgjson.com/json/C19.json,Commander 2019,C19,302,commander
+69,0,https://www.mtgjson.com/json/OC19.json,Commander 2019 Oversized,OC19,4,memorabilia
+70,0,https://www.mtgjson.com/json/CMA.json,Commander Anthology,CMA,320,commander
+71,0,https://www.mtgjson.com/json/CM2.json,Commander Anthology Volume II,CM2,312,commander
+72,0,https://www.mtgjson.com/json/CM1.json,Commander's Arsenal,CM1,18,commander
+73,0,https://www.mtgjson.com/json/OCM1.json,Commander's Arsenal Oversized,OCM1,10,memorabilia
+74,145,https://www.mtgjson.com/json/CON.json,Conflux,CON,145,expansion
+75,210,https://www.mtgjson.com/json/CNS.json,Conspiracy,CNS,210,draft_innovation
+76,221,https://www.mtgjson.com/json/CN2.json,Conspiracy: Take the Crown,CN2,222,draft_innovation
+77,280,https://www.mtgjson.com/json/M19.json,Core Set 2019,M19,314,core
+78,0,https://www.mtgjson.com/json/PM19.json,Core Set 2019 Promos,PM19,92,promo
+79,280,https://www.mtgjson.com/json/M20.json,Core Set 2020,M20,345,core
+80,0,https://www.mtgjson.com/json/PM20.json,Core Set 2020 Promos,PM20,143,promo
+81,0,https://www.mtgjson.com/json/PLGM.json,DCI Legend Membership,PLGM,2,promo
+82,158,https://www.mtgjson.com/json/DKA.json,Dark Ascension,DKA,158,expansion
+83,0,https://www.mtgjson.com/json/PDKA.json,Dark Ascension Promos,PDKA,5,promo
+84,165,https://www.mtgjson.com/json/DST.json,Darksteel,DST,165,expansion
+85,0,https://www.mtgjson.com/json/DKM.json,Deckmasters,DKM,58,box
+86,0,https://www.mtgjson.com/json/TDAG.json,Defeat a God,TDAG,15,token
+87,180,https://www.mtgjson.com/json/DIS.json,Dissension,DIS,180,expansion
+88,269,https://www.mtgjson.com/json/DOM.json,Dominaria,DOM,280,expansion
+89,0,https://www.mtgjson.com/json/PDOM.json,Dominaria Promos,PDOM,118,promo
+90,0,https://www.mtgjson.com/json/PDRC.json,Dragon Con,PDRC,1,promo
+91,156,https://www.mtgjson.com/json/DGM.json,Dragon's Maze,DGM,156,expansion
+92,0,https://www.mtgjson.com/json/PDGM.json,Dragon's Maze Promos,PDGM,6,promo
+93,264,https://www.mtgjson.com/json/DTK.json,Dragons of Tarkir,DTK,264,expansion
+94,0,https://www.mtgjson.com/json/PDTK.json,Dragons of Tarkir Promos,PDTK,49,promo
+95,0,https://www.mtgjson.com/json/DVD.json,Duel Decks Anthology: Divine vs. Demonic,DVD,62,duel_deck
+96,0,https://www.mtgjson.com/json/EVG.json,Duel Decks Anthology: Elves vs. Goblins,EVG,62,duel_deck
+97,0,https://www.mtgjson.com/json/GVL.json,Duel Decks Anthology: Garruk vs. Liliana,GVL,63,duel_deck
+98,0,https://www.mtgjson.com/json/JVC.json,Duel Decks Anthology: Jace vs. Chandra,JVC,62,duel_deck
+99,0,https://www.mtgjson.com/json/DDH.json,Duel Decks: Ajani vs. Nicol Bolas,DDH,80,duel_deck
+100,0,https://www.mtgjson.com/json/DDQ.json,Duel Decks: Blessed vs. Cursed,DDQ,80,duel_deck
+101,0,https://www.mtgjson.com/json/DDC.json,Duel Decks: Divine vs. Demonic,DDC,62,duel_deck
+102,0,https://www.mtgjson.com/json/DDO.json,Duel Decks: Elspeth vs. Kiora,DDO,67,duel_deck
+103,0,https://www.mtgjson.com/json/DDF.json,Duel Decks: Elspeth vs. Tezzeret,DDF,79,duel_deck
+104,0,https://www.mtgjson.com/json/DD1.json,Duel Decks: Elves vs. Goblins,DD1,62,duel_deck
+105,0,https://www.mtgjson.com/json/DDU.json,Duel Decks: Elves vs. Inventors,DDU,76,duel_deck
+106,0,https://www.mtgjson.com/json/DDD.json,Duel Decks: Garruk vs. Liliana,DDD,63,duel_deck
+107,0,https://www.mtgjson.com/json/DDL.json,Duel Decks: Heroes vs. Monsters,DDL,81,duel_deck
+108,0,https://www.mtgjson.com/json/DDJ.json,Duel Decks: Izzet vs. Golgari,DDJ,90,duel_deck
+109,0,https://www.mtgjson.com/json/DD2.json,Duel Decks: Jace vs. Chandra,DD2,64,duel_deck
+110,0,https://www.mtgjson.com/json/DDM.json,Duel Decks: Jace vs. Vraska,DDM,88,duel_deck
+111,0,https://www.mtgjson.com/json/DDG.json,Duel Decks: Knights vs. Dragons,DDG,81,duel_deck
+112,0,https://www.mtgjson.com/json/DDT.json,Duel Decks: Merfolk vs. Goblins,DDT,63,duel_deck
+113,0,https://www.mtgjson.com/json/DDS.json,Duel Decks: Mind vs. Might,DDS,65,duel_deck
+114,0,https://www.mtgjson.com/json/TD2.json,Duel Decks: Mirrodin Pure vs. New Phyrexia,TD2,88,duel_deck
+115,0,https://www.mtgjson.com/json/DDR.json,Duel Decks: Nissa vs. Ob Nixilis,DDR,76,duel_deck
+116,0,https://www.mtgjson.com/json/DDE.json,Duel Decks: Phyrexia vs. the Coalition,DDE,71,duel_deck
+117,0,https://www.mtgjson.com/json/DDK.json,Duel Decks: Sorin vs. Tibalt,DDK,80,duel_deck
+118,0,https://www.mtgjson.com/json/DDN.json,Duel Decks: Speed vs. Cunning,DDN,82,duel_deck
+119,0,https://www.mtgjson.com/json/DDI.json,Duel Decks: Venser vs. Koth,DDI,77,duel_deck
+120,0,https://www.mtgjson.com/json/DDP.json,Duel Decks: Zendikar vs. Eldrazi,DDP,80,duel_deck
+121,0,https://www.mtgjson.com/json/DPA.json,Duels of the Planeswalkers,DPA,113,box
+122,0,https://www.mtgjson.com/json/PDTP.json,Duels of the Planeswalkers Promos 2009,PDTP,1,promo
+123,0,https://www.mtgjson.com/json/PDP10.json,Duels of the Planeswalkers Promos 2010,PDP10,2,promo
+124,0,https://www.mtgjson.com/json/PDP11.json,Duels of the Planeswalkers Promos 2011,PDP11,3,promo
+125,0,https://www.mtgjson.com/json/PDP12.json,Duels of the Planeswalkers Promos 2012,PDP12,3,promo
+126,0,https://www.mtgjson.com/json/PDP13.json,Duels of the Planeswalkers Promos 2013,PDP13,3,promo
+127,0,https://www.mtgjson.com/json/PDP14.json,Duels of the Planeswalkers Promos 2014,PDP14,2,promo
+128,350,https://www.mtgjson.com/json/8ED.json,Eighth Edition,8ED,357,core
+129,205,https://www.mtgjson.com/json/EMN.json,Eldritch Moon,EMN,208,expansion
+130,0,https://www.mtgjson.com/json/PEMN.json,Eldritch Moon Promos,PEMN,73,promo
+131,249,https://www.mtgjson.com/json/EMA.json,Eternal Masters,EMA,249,masters
+132,0,https://www.mtgjson.com/json/PELP.json,European Land Program,PELP,15,promo
+133,180,https://www.mtgjson.com/json/EVE.json,Eventide,EVE,180,expansion
+134,143,https://www.mtgjson.com/json/EXO.json,Exodus,EXO,143,expansion
+135,0,https://www.mtgjson.com/json/E02.json,Explorers of Ixalan,E02,48,box
+136,0,https://www.mtgjson.com/json/TFTH.json,Face the Hydra,TFTH,15,token
+137,187,https://www.mtgjson.com/json/FEM.json,Fallen Empires,FEM,187,expansion
+138,185,https://www.mtgjson.com/json/FRF.json,Fate Reforged,FRF,185,expansion
+139,0,https://www.mtgjson.com/json/CP2.json,Fate Reforged Clash Pack,CP2,6,starter
+140,0,https://www.mtgjson.com/json/PFRF.json,Fate Reforged Promos,PFRF,39,promo
+141,165,https://www.mtgjson.com/json/5DN.json,Fifth Dawn,5DN,165,expansion
+142,449,https://www.mtgjson.com/json/5ED.json,Fifth Edition,5ED,454,core
+143,307,https://www.mtgjson.com/json/FBB.json,Foreign Black Border,FBB,307,core
+144,378,https://www.mtgjson.com/json/4ED.json,Fourth Edition,4ED,379,core
+145,0,https://www.mtgjson.com/json/4BB.json,Fourth Edition Foreign Black Border,4BB,378,core
+146,0,https://www.mtgjson.com/json/FNM.json,Friday Night Magic 2000,FNM,11,promo
+147,0,https://www.mtgjson.com/json/F01.json,Friday Night Magic 2001,F01,7,promo
+148,0,https://www.mtgjson.com/json/F02.json,Friday Night Magic 2002,F02,12,promo
+149,0,https://www.mtgjson.com/json/F03.json,Friday Night Magic 2003,F03,13,promo
+150,0,https://www.mtgjson.com/json/F04.json,Friday Night Magic 2004,F04,12,promo
+151,0,https://www.mtgjson.com/json/F05.json,Friday Night Magic 2005,F05,12,promo
+152,0,https://www.mtgjson.com/json/F06.json,Friday Night Magic 2006,F06,12,promo
+153,0,https://www.mtgjson.com/json/F07.json,Friday Night Magic 2007,F07,12,promo
+154,0,https://www.mtgjson.com/json/F08.json,Friday Night Magic 2008,F08,12,promo
+155,0,https://www.mtgjson.com/json/F09.json,Friday Night Magic 2009,F09,12,promo
+156,0,https://www.mtgjson.com/json/F10.json,Friday Night Magic 2010,F10,12,promo
+157,0,https://www.mtgjson.com/json/F11.json,Friday Night Magic 2011,F11,12,promo
+158,0,https://www.mtgjson.com/json/F12.json,Friday Night Magic 2012,F12,13,promo
+159,0,https://www.mtgjson.com/json/F13.json,Friday Night Magic 2013,F13,12,promo
+160,0,https://www.mtgjson.com/json/F14.json,Friday Night Magic 2014,F14,12,promo
+161,0,https://www.mtgjson.com/json/F15.json,Friday Night Magic 2015,F15,12,promo
+162,0,https://www.mtgjson.com/json/F16.json,Friday Night Magic 2016,F16,12,promo
+163,0,https://www.mtgjson.com/json/F17.json,Friday Night Magic 2017,F17,12,promo
+164,0,https://www.mtgjson.com/json/F18.json,Friday Night Magic 2018,F18,3,promo
+165,0,https://www.mtgjson.com/json/V15.json,From the Vault: Angels,V15,15,from_the_vault
+166,0,https://www.mtgjson.com/json/V14.json,From the Vault: Annihilation,V14,15,from_the_vault
+167,0,https://www.mtgjson.com/json/DRB.json,From the Vault: Dragons,DRB,15,from_the_vault
+168,0,https://www.mtgjson.com/json/V09.json,From the Vault: Exiled,V09,15,from_the_vault
+169,0,https://www.mtgjson.com/json/V11.json,From the Vault: Legends,V11,15,from_the_vault
+170,0,https://www.mtgjson.com/json/V16.json,From the Vault: Lore,V16,16,from_the_vault
+171,0,https://www.mtgjson.com/json/V12.json,From the Vault: Realms,V12,15,from_the_vault
+172,0,https://www.mtgjson.com/json/V10.json,From the Vault: Relics,V10,15,from_the_vault
+173,0,https://www.mtgjson.com/json/V17.json,From the Vault: Transform,V17,16,from_the_vault
+174,0,https://www.mtgjson.com/json/V13.json,From the Vault: Twenty,V13,20,from_the_vault
+175,180,https://www.mtgjson.com/json/FUT.json,Future Sight,FUT,180,expansion
+176,0,https://www.mtgjson.com/json/GK1.json,GRN Guild Kit,GK1,127,box
+177,0,https://www.mtgjson.com/json/PRWK.json,GRN Ravnica Weekend,PRWK,10,promo
+178,0,https://www.mtgjson.com/json/GNT.json,Game Night,GNT,68,box
+179,0,https://www.mtgjson.com/json/GN2.json,Game Night 2019,GN2,5,box
+180,249,https://www.mtgjson.com/json/GTC.json,Gatecrash,GTC,249,expansion
+181,0,https://www.mtgjson.com/json/PGTC.json,Gatecrash Promos,PGTC,9,promo
+182,0,https://www.mtgjson.com/json/PGTW.json,Gateway 2006,PGTW,3,promo
+183,0,https://www.mtgjson.com/json/PG07.json,Gateway 2007,PG07,9,promo
+184,0,https://www.mtgjson.com/json/PG08.json,Gateway 2008,PG08,8,promo
+185,0,https://www.mtgjson.com/json/GS1.json,Global Series Jiang Yanggu & Mu Yanling,GS1,41,duel_deck
+186,0,https://www.mtgjson.com/json/PGPX.json,Grand Prix Promos,PGPX,20,promo
+187,165,https://www.mtgjson.com/json/GPT.json,Guildpact,GPT,165,expansion
+188,259,https://www.mtgjson.com/json/GRN.json,Guilds of Ravnica,GRN,273,expansion
+189,0,https://www.mtgjson.com/json/PGRN.json,Guilds of Ravnica Promos,PGRN,67,promo
+190,0,https://www.mtgjson.com/json/PGRU.json,Guru,PGRU,5,promo
+191,0,https://www.mtgjson.com/json/PHUK.json,Hachette UK,PHUK,60,box
+192,0,https://www.mtgjson.com/json/HHO.json,Happy Holidays,HHO,15,funny
+193,0,https://www.mtgjson.com/json/PHPR.json,HarperPrism Book Promos,PHPR,5,promo
+194,0,https://www.mtgjson.com/json/H17.json,HasCon 2017,H17,4,funny
+195,0,https://www.mtgjson.com/json/PHJ.json,Hobby Japan Promos,PHJ,5,promo
+196,140,https://www.mtgjson.com/json/HML.json,Homelands,HML,140,expansion
+197,199,https://www.mtgjson.com/json/HOU.json,Hour of Devastation,HOU,209,expansion
+198,0,https://www.mtgjson.com/json/PHOU.json,Hour of Devastation Promos,PHOU,58,promo
+199,0,https://www.mtgjson.com/json/PIDW.json,IDW Comics 2012,PIDW,9,promo
+200,0,https://www.mtgjson.com/json/PI13.json,IDW Comics 2013,PI13,5,promo
+201,0,https://www.mtgjson.com/json/PI14.json,IDW Comics 2014,PI14,3,promo
+202,383,https://www.mtgjson.com/json/ICE.json,Ice Age,ICE,383,expansion
+203,249,https://www.mtgjson.com/json/IMA.json,Iconic Masters,IMA,249,masters
+204,264,https://www.mtgjson.com/json/ISD.json,Innistrad,ISD,264,expansion
+205,0,https://www.mtgjson.com/json/PISD.json,Innistrad Promos,PISD,5,promo
+206,0,https://www.mtgjson.com/json/CEI.json,Intl. Collectors’ Edition,CEI,302,memorabilia
+207,0,https://www.mtgjson.com/json/ITP.json,Introductory Two-Player Set,ITP,67,starter
+208,350,https://www.mtgjson.com/json/INV.json,Invasion,INV,350,expansion
+209,279,https://www.mtgjson.com/json/XLN.json,Ixalan,XLN,289,expansion
+210,0,https://www.mtgjson.com/json/PXLN.json,Ixalan Promos,PXLN,120,promo
+211,0,https://www.mtgjson.com/json/PJJT.json,Japan Junior Tournament,PJJT,12,promo
+212,165,https://www.mtgjson.com/json/JOU.json,Journey into Nyx,JOU,165,expansion
+213,0,https://www.mtgjson.com/json/THP3.json,Journey into Nyx Hero's Path,THP3,9,token
+214,0,https://www.mtgjson.com/json/PJOU.json,Journey into Nyx Promos,PJOU,9,promo
+215,0,https://www.mtgjson.com/json/JGP.json,Judge Gift Cards 1998,JGP,3,promo
+216,0,https://www.mtgjson.com/json/G99.json,Judge Gift Cards 1999,G99,1,promo
+217,0,https://www.mtgjson.com/json/G00.json,Judge Gift Cards 2000,G00,2,promo
+218,0,https://www.mtgjson.com/json/G01.json,Judge Gift Cards 2001,G01,2,promo
+219,0,https://www.mtgjson.com/json/G02.json,Judge Gift Cards 2002,G02,2,promo
+220,0,https://www.mtgjson.com/json/G03.json,Judge Gift Cards 2003,G03,3,promo
+221,0,https://www.mtgjson.com/json/G04.json,Judge Gift Cards 2004,G04,6,promo
+222,0,https://www.mtgjson.com/json/G05.json,Judge Gift Cards 2005,G05,4,promo
+223,0,https://www.mtgjson.com/json/G06.json,Judge Gift Cards 2006,G06,4,promo
+224,0,https://www.mtgjson.com/json/G07.json,Judge Gift Cards 2007,G07,5,promo
+225,0,https://www.mtgjson.com/json/G08.json,Judge Gift Cards 2008,G08,5,promo
+226,0,https://www.mtgjson.com/json/G09.json,Judge Gift Cards 2009,G09,10,promo
+227,0,https://www.mtgjson.com/json/G10.json,Judge Gift Cards 2010,G10,8,promo
+228,0,https://www.mtgjson.com/json/G11.json,Judge Gift Cards 2011,G11,9,promo
+229,0,https://www.mtgjson.com/json/J12.json,Judge Gift Cards 2012,J12,9,promo
+230,0,https://www.mtgjson.com/json/J13.json,Judge Gift Cards 2013,J13,9,promo
+231,0,https://www.mtgjson.com/json/J14.json,Judge Gift Cards 2014,J14,14,promo
+232,0,https://www.mtgjson.com/json/J15.json,Judge Gift Cards 2015,J15,8,promo
+233,0,https://www.mtgjson.com/json/J16.json,Judge Gift Cards 2016,J16,7,promo
+234,0,https://www.mtgjson.com/json/J17.json,Judge Gift Cards 2017,J17,9,promo
+235,0,https://www.mtgjson.com/json/J18.json,Judge Gift Cards 2018,J18,8,promo
+236,0,https://www.mtgjson.com/json/J19.json,Judge Gift Cards 2019,J19,8,promo
+237,143,https://www.mtgjson.com/json/JUD.json,Judgment,JUD,143,expansion
+238,0,https://www.mtgjson.com/json/PJAS.json,Junior APAC Series,PJAS,6,promo
+239,0,https://www.mtgjson.com/json/PJSE.json,Junior Series Europe,PJSE,8,promo
+240,0,https://www.mtgjson.com/json/PSUS.json,Junior Super Series,PSUS,18,promo
+241,264,https://www.mtgjson.com/json/KLD.json,Kaladesh,KLD,278,expansion
+242,54,https://www.mtgjson.com/json/MPS.json,Kaladesh Inventions,MPS,54,masterpiece
+243,0,https://www.mtgjson.com/json/PKLD.json,Kaladesh Promos,PKLD,73,promo
+244,269,https://www.mtgjson.com/json/KTK.json,Khans of Tarkir,KTK,269,expansion
+245,0,https://www.mtgjson.com/json/PKTK.json,Khans of Tarkir Promos,PKTK,50,promo
+246,0,https://www.mtgjson.com/json/PLPA.json,Launch Parties,PLPA,6,promo
+247,0,https://www.mtgjson.com/json/L12.json,League Tokens 2012,L12,2,token
+248,0,https://www.mtgjson.com/json/L13.json,League Tokens 2013,L13,4,token
+249,0,https://www.mtgjson.com/json/L14.json,League Tokens 2014,L14,4,token
+250,0,https://www.mtgjson.com/json/L15.json,League Tokens 2015,L15,1,token
+251,0,https://www.mtgjson.com/json/L16.json,League Tokens 2016,L16,1,token
+252,0,https://www.mtgjson.com/json/L17.json,League Tokens 2017,L17,1,token
+253,0,https://www.mtgjson.com/json/OLGC.json,Legacy Championship,OLGC,13,memorabilia
+254,0,https://www.mtgjson.com/json/PZ1.json,Legendary Cube Prize Pack,PZ1,149,treasure_chest
+255,310,https://www.mtgjson.com/json/LEG.json,Legends,LEG,310,expansion
+256,145,https://www.mtgjson.com/json/LGN.json,Legions,LGN,145,expansion
+257,295,https://www.mtgjson.com/json/LEA.json,Limited Edition Alpha,LEA,295,core
+258,302,https://www.mtgjson.com/json/LEB.json,Limited Edition Beta,LEB,302,core
+259,301,https://www.mtgjson.com/json/LRW.json,Lorwyn,LRW,301,expansion
+260,0,https://www.mtgjson.com/json/PPC1.json,M15 Prerelease Challenge,PPC1,2,memorabilia
+261,0,https://www.mtgjson.com/json/G18.json,M19 Gift Pack,G18,5,box
+262,0,https://www.mtgjson.com/json/PSS3.json,M19 Standard Showdown,PSS3,5,promo
+263,0,https://www.mtgjson.com/json/PPP1.json,M20 Promo Packs,PPP1,5,promo
+264,0,https://www.mtgjson.com/json/PANA.json,MTG Arena Promos,PANA,1,promo
+265,0,https://www.mtgjson.com/json/PMEI.json,Magazine Inserts,PMEI,29,promo
+266,249,https://www.mtgjson.com/json/M10.json,Magic 2010,M10,249,core
+267,0,https://www.mtgjson.com/json/PM10.json,Magic 2010 Promos,PM10,5,promo
+268,249,https://www.mtgjson.com/json/M11.json,Magic 2011,M11,249,core
+269,0,https://www.mtgjson.com/json/PM11.json,Magic 2011 Promos,PM11,5,promo
+270,249,https://www.mtgjson.com/json/M12.json,Magic 2012,M12,249,core
+271,0,https://www.mtgjson.com/json/PM12.json,Magic 2012 Promos,PM12,5,promo
+272,249,https://www.mtgjson.com/json/M13.json,Magic 2013,M13,249,core
+273,0,https://www.mtgjson.com/json/PM13.json,Magic 2013 Promos,PM13,5,promo
+274,249,https://www.mtgjson.com/json/M14.json,Magic 2014,M14,249,core
+275,0,https://www.mtgjson.com/json/PM14.json,Magic 2014 Promos,PM14,5,promo
+276,269,https://www.mtgjson.com/json/M15.json,Magic 2015,M15,284,core
+277,0,https://www.mtgjson.com/json/CP1.json,Magic 2015 Clash Pack,CP1,6,starter
+278,0,https://www.mtgjson.com/json/PM15.json,Magic 2015 Promos,PM15,9,promo
+279,0,https://www.mtgjson.com/json/PMOA.json,Magic Online Avatars,PMOA,85,vanguard
+280,0,https://www.mtgjson.com/json/PRM.json,Magic Online Promos,PRM,1235,promo
+281,0,https://www.mtgjson.com/json/TD0.json,Magic Online Theme Decks,TD0,197,box
+282,272,https://www.mtgjson.com/json/ORI.json,Magic Origins,ORI,288,core
+283,0,https://www.mtgjson.com/json/CP3.json,Magic Origins Clash Pack,CP3,6,starter
+284,0,https://www.mtgjson.com/json/PORI.json,Magic Origins Promos,PORI,49,promo
+285,0,https://www.mtgjson.com/json/MPR.json,Magic Player Rewards 2001,MPR,8,promo
+286,0,https://www.mtgjson.com/json/PR2.json,Magic Player Rewards 2002,PR2,6,promo
+287,0,https://www.mtgjson.com/json/P03.json,Magic Player Rewards 2003,P03,7,promo
+288,0,https://www.mtgjson.com/json/P04.json,Magic Player Rewards 2004,P04,6,promo
+289,0,https://www.mtgjson.com/json/P05.json,Magic Player Rewards 2005,P05,6,promo
+290,0,https://www.mtgjson.com/json/P06.json,Magic Player Rewards 2006,P06,7,promo
+291,0,https://www.mtgjson.com/json/P07.json,Magic Player Rewards 2007,P07,7,promo
+292,0,https://www.mtgjson.com/json/P08.json,Magic Player Rewards 2008,P08,7,promo
+293,0,https://www.mtgjson.com/json/P09.json,Magic Player Rewards 2009,P09,9,promo
+294,0,https://www.mtgjson.com/json/P10.json,Magic Player Rewards 2010,P10,9,promo
+295,0,https://www.mtgjson.com/json/P11.json,Magic Player Rewards 2011,P11,5,promo
+296,0,https://www.mtgjson.com/json/PMPS.json,Magic Premiere Shop 2005,PMPS,20,promo
+297,0,https://www.mtgjson.com/json/PMPS06.json,Magic Premiere Shop 2006,PMPS06,5,promo
+298,0,https://www.mtgjson.com/json/PMPS07.json,Magic Premiere Shop 2007,PMPS07,5,promo
+299,0,https://www.mtgjson.com/json/PMPS08.json,Magic Premiere Shop 2008,PMPS08,6,promo
+300,0,https://www.mtgjson.com/json/PMPS09.json,Magic Premiere Shop 2009,PMPS09,5,promo
+301,0,https://www.mtgjson.com/json/PMPS10.json,Magic Premiere Shop 2010,PMPS10,5,promo
+302,0,https://www.mtgjson.com/json/PMPS11.json,Magic Premiere Shop 2011,PMPS11,5,promo
+303,0,https://www.mtgjson.com/json/PF19.json,MagicFest 2019,PF19,7,promo
+304,249,https://www.mtgjson.com/json/A25.json,Masters 25,A25,249,masters
+305,195,https://www.mtgjson.com/json/ME1.json,Masters Edition,ME1,195,masters
+306,245,https://www.mtgjson.com/json/ME2.json,Masters Edition II,ME2,245,masters
+307,230,https://www.mtgjson.com/json/ME3.json,Masters Edition III,ME3,230,masters
+308,269,https://www.mtgjson.com/json/ME4.json,Masters Edition IV,ME4,269,masters
+309,350,https://www.mtgjson.com/json/MMQ.json,Mercadian Masques,MMQ,350,expansion
+310,350,https://www.mtgjson.com/json/MIR.json,Mirage,MIR,351,expansion
+311,306,https://www.mtgjson.com/json/MRD.json,Mirrodin,MRD,306,expansion
+312,155,https://www.mtgjson.com/json/MBS.json,Mirrodin Besieged,MBS,155,expansion
+313,0,https://www.mtgjson.com/json/PMBS.json,Mirrodin Besieged Promos,PMBS,6,promo
+314,0,https://www.mtgjson.com/json/PBOK.json,Miscellaneous Book Promos,PBOK,1,promo
+315,0,https://www.mtgjson.com/json/MD1.json,Modern Event Deck 2014,MD1,26,box
+316,254,https://www.mtgjson.com/json/MH1.json,Modern Horizons,MH1,255,draft_innovation
+317,0,https://www.mtgjson.com/json/AMH1.json,Modern Horizons Art Series,AMH1,54,memorabilia
+318,0,https://www.mtgjson.com/json/PMH1.json,Modern Horizons Promos,PMH1,1,promo
+319,229,https://www.mtgjson.com/json/MMA.json,Modern Masters,MMA,229,masters
+320,249,https://www.mtgjson.com/json/MM2.json,Modern Masters 2015,MM2,249,masters
+321,249,https://www.mtgjson.com/json/MM3.json,Modern Masters 2017,MM3,249,masters
+322,150,https://www.mtgjson.com/json/MOR.json,Morningtide,MOR,150,expansion
+323,0,https://www.mtgjson.com/json/MGB.json,Multiverse Gift Box,MGB,10,box
+324,0,https://www.mtgjson.com/json/MED.json,Mythic Edition,MED,24,masterpiece
+325,0,https://www.mtgjson.com/json/PNAT.json,Nationals Promos,PNAT,1,promo
+326,143,https://www.mtgjson.com/json/NEM.json,Nemesis,NEM,143,expansion
+327,175,https://www.mtgjson.com/json/NPH.json,New Phyrexia,NPH,175,expansion
+328,0,https://www.mtgjson.com/json/PNPH.json,New Phyrexia Promos,PNPH,6,promo
+329,350,https://www.mtgjson.com/json/9ED.json,Ninth Edition,9ED,359,core
+330,184,https://www.mtgjson.com/json/OGW.json,Oath of the Gatewatch,OGW,186,expansion
+331,0,https://www.mtgjson.com/json/POGW.json,Oath of the Gatewatch Promos,POGW,63,promo
+332,350,https://www.mtgjson.com/json/ODY.json,Odyssey,ODY,351,expansion
+333,350,https://www.mtgjson.com/json/ONS.json,Onslaught,ONS,350,expansion
+334,0,https://www.mtgjson.com/json/PHEL.json,Open the Helvault,PHEL,6,memorabilia
+335,165,https://www.mtgjson.com/json/PLC.json,Planar Chaos,PLC,165,expansion
+336,0,https://www.mtgjson.com/json/HOP.json,Planechase,HOP,169,planechase
+337,0,https://www.mtgjson.com/json/PC2.json,Planechase 2012,PC2,156,planechase
+338,0,https://www.mtgjson.com/json/OPC2.json,Planechase 2012 Planes,OPC2,40,planechase
+339,0,https://www.mtgjson.com/json/PCA.json,Planechase Anthology,PCA,156,planechase
+340,0,https://www.mtgjson.com/json/OPCA.json,Planechase Anthology Planes,OPCA,86,planechase
+341,0,https://www.mtgjson.com/json/OHOP.json,Planechase Planes,OHOP,40,planechase
+342,143,https://www.mtgjson.com/json/PLS.json,Planeshift,PLS,146,expansion
+343,0,https://www.mtgjson.com/json/PTG.json,Ponies: The Galloping,PTG,3,funny
+344,215,https://www.mtgjson.com/json/POR.json,Portal,POR,222,starter
+345,0,https://www.mtgjson.com/json/PPOD.json,Portal Demo Game,PPOD,6,starter
+346,165,https://www.mtgjson.com/json/P02.json,Portal Second Age,P02,165,starter
+347,180,https://www.mtgjson.com/json/PTK.json,Portal Three Kingdoms,PTK,180,starter
+348,0,https://www.mtgjson.com/json/PD2.json,Premium Deck Series: Fire and Lightning,PD2,34,premium_deck
+349,0,https://www.mtgjson.com/json/PD3.json,Premium Deck Series: Graveborn,PD3,30,premium_deck
+350,0,https://www.mtgjson.com/json/H09.json,Premium Deck Series: Slivers,H09,41,premium_deck
+351,0,https://www.mtgjson.com/json/PPRE.json,Prerelease Events,PPRE,40,promo
+352,0,https://www.mtgjson.com/json/PTC.json,Pro Tour Collector Set,PTC,307,memorabilia
+353,0,https://www.mtgjson.com/json/PPRO.json,Pro Tour Promos,PPRO,13,promo
+354,0,https://www.mtgjson.com/json/PHOP.json,Promotional Planes,PHOP,6,promo
+355,0,https://www.mtgjson.com/json/PARC.json,Promotional Schemes,PARC,5,archenemy
+356,143,https://www.mtgjson.com/json/PCY.json,Prophecy,PCY,143,expansion
+357,0,https://www.mtgjson.com/json/GK2.json,RNA Guild Kit,GK2,133,box
+358,0,https://www.mtgjson.com/json/PRW2.json,RNA Ravnica Weekend,PRW2,10,promo
+359,259,https://www.mtgjson.com/json/RNA.json,Ravnica Allegiance,RNA,273,expansion
+360,0,https://www.mtgjson.com/json/PRNA.json,Ravnica Allegiance Promos,PRNA,76,promo
+361,306,https://www.mtgjson.com/json/RAV.json,Ravnica: City of Guilds,RAV,306,expansion
+362,0,https://www.mtgjson.com/json/PRED.json,Redemption Program,PRED,1,promo
+363,0,https://www.mtgjson.com/json/PREL.json,Release Events,PREL,13,promo
+364,122,https://www.mtgjson.com/json/REN.json,Renaissance,REN,122,masters
+365,0,https://www.mtgjson.com/json/PRES.json,Resale Promos,PRES,24,promo
+366,274,https://www.mtgjson.com/json/RTR.json,Return to Ravnica,RTR,274,expansion
+367,0,https://www.mtgjson.com/json/PRTR.json,Return to Ravnica Promos,PRTR,10,promo
+368,306,https://www.mtgjson.com/json/3ED.json,Revised Edition,3ED,306,core
+369,69,https://www.mtgjson.com/json/RIN.json,Rinascimento,RIN,69,masters
+370,248,https://www.mtgjson.com/json/ROE.json,Rise of the Eldrazi,ROE,248,expansion
+371,0,https://www.mtgjson.com/json/PROE.json,Rise of the Eldrazi Promos,PROE,6,promo
+372,0,https://www.mtgjson.com/json/RQS.json,Rivals Quick Start Set,RQS,65,box
+373,196,https://www.mtgjson.com/json/RIX.json,Rivals of Ixalan,RIX,205,expansion
+374,0,https://www.mtgjson.com/json/PRIX.json,Rivals of Ixalan Promos,PRIX,95,promo
+375,0,https://www.mtgjson.com/json/PSAL.json,Salvat 2005,PSAL,720,box
+376,0,https://www.mtgjson.com/json/PS11.json,Salvat 2011,PS11,224,box
+377,0,https://www.mtgjson.com/json/PSDC.json,San Diego Comic-Con 2013,PSDC,5,promo
+378,0,https://www.mtgjson.com/json/PS14.json,San Diego Comic-Con 2014,PS14,6,promo
+379,0,https://www.mtgjson.com/json/PS15.json,San Diego Comic-Con 2015,PS15,5,promo
+380,0,https://www.mtgjson.com/json/PS16.json,San Diego Comic-Con 2016,PS16,5,promo
+381,0,https://www.mtgjson.com/json/PS17.json,San Diego Comic-Con 2017,PS17,6,promo
+382,0,https://www.mtgjson.com/json/PS18.json,San Diego Comic-Con 2018,PS18,5,promo
+383,0,https://www.mtgjson.com/json/PS19.json,San Diego Comic-Con 2019,PS19,5,promo
+384,165,https://www.mtgjson.com/json/SOK.json,Saviors of Kamigawa,SOK,165,expansion
+385,249,https://www.mtgjson.com/json/SOM.json,Scars of Mirrodin,SOM,249,expansion
+386,0,https://www.mtgjson.com/json/PSOM.json,Scars of Mirrodin Promos,PSOM,5,promo
+387,143,https://www.mtgjson.com/json/SCG.json,Scourge,SCG,143,expansion
+388,350,https://www.mtgjson.com/json/7ED.json,Seventh Edition,7ED,350,core
+389,301,https://www.mtgjson.com/json/SHM.json,Shadowmoor,SHM,302,expansion
+390,297,https://www.mtgjson.com/json/SOI.json,Shadows over Innistrad,SOI,302,expansion
+391,0,https://www.mtgjson.com/json/PSOI.json,Shadows over Innistrad Promos,PSOI,88,promo
+392,249,https://www.mtgjson.com/json/ALA.json,Shards of Alara,ALA,249,expansion
+393,0,https://www.mtgjson.com/json/SS2.json,Signature Spellbook: Gideon,SS2,8,spellbook
+394,0,https://www.mtgjson.com/json/SS1.json,Signature Spellbook: Jace,SS1,8,spellbook
+395,173,https://www.mtgjson.com/json/S99.json,Starter 1999,S99,173,starter
+396,0,https://www.mtgjson.com/json/S00.json,Starter 2000,S00,20,starter
+397,143,https://www.mtgjson.com/json/STH.json,Stronghold,STH,143,expansion
+398,306,https://www.mtgjson.com/json/SUM.json,Summer Magic / Edgar,SUM,306,core
+399,0,https://www.mtgjson.com/json/PSUM.json,Summer of Magic,PSUM,2,promo
+400,0,https://www.mtgjson.com/json/PTKDF.json,Tarkir Dragonfury,PTKDF,4,promo
+401,350,https://www.mtgjson.com/json/TMP.json,Tempest,TMP,350,expansion
+402,269,https://www.mtgjson.com/json/TPR.json,Tempest Remastered,TPR,269,masters
+403,383,https://www.mtgjson.com/json/10E.json,Tenth Edition,10E,508,core
+404,0,https://www.mtgjson.com/json/P10E.json,Tenth Edition Promos,P10E,1,promo
+405,119,https://www.mtgjson.com/json/DRK.json,The Dark,DRK,122,expansion
+406,249,https://www.mtgjson.com/json/THS.json,Theros,THS,249,expansion
+407,0,https://www.mtgjson.com/json/THP1.json,Theros Hero's Path,THP1,7,token
+408,0,https://www.mtgjson.com/json/PTHS.json,Theros Promos,PTHS,10,promo
+409,269,https://www.mtgjson.com/json/ELD.json,Throne of Eldraine,ELD,397,expansion
+410,0,https://www.mtgjson.com/json/PELD.json,Throne of Eldraine Promos,PELD,136,promo
+411,301,https://www.mtgjson.com/json/TSP.json,Time Spiral,TSP,301,expansion
+412,121,https://www.mtgjson.com/json/TSB.json,Time Spiral Timeshifted,TSB,121,expansion
+413,143,https://www.mtgjson.com/json/TOR.json,Torment,TOR,143,expansion
+414,0,https://www.mtgjson.com/json/PZ2.json,Treasure Chest,PZ2,282,treasure_chest
+415,0,https://www.mtgjson.com/json/P2HG.json,Two-Headed Giant Tournament,P2HG,1,promo
+416,0,https://www.mtgjson.com/json/PURL.json,URL/Convention Promos,PURL,9,promo
+417,26,https://www.mtgjson.com/json/UGIN.json,Ugin's Fate,UGIN,26,promo
+418,0,https://www.mtgjson.com/json/PUMA.json,Ultimate Box Topper,PUMA,40,masterpiece
+419,254,https://www.mtgjson.com/json/UMA.json,Ultimate Masters,UMA,254,masters
+420,88,https://www.mtgjson.com/json/UGL.json,Unglued,UGL,88,funny
+421,141,https://www.mtgjson.com/json/UNH.json,Unhinged,UNH,168,funny
+422,302,https://www.mtgjson.com/json/2ED.json,Unlimited Edition,2ED,302,core
+423,268,https://www.mtgjson.com/json/UST.json,Unstable,UST,268,funny
+424,0,https://www.mtgjson.com/json/PUST.json,Unstable Promos,PUST,1,promo
+425,143,https://www.mtgjson.com/json/UDS.json,Urza's Destiny,UDS,143,expansion
+426,143,https://www.mtgjson.com/json/ULG.json,Urza's Legacy,ULG,143,expansion
+427,350,https://www.mtgjson.com/json/USG.json,Urza's Saga,USG,350,expansion
+428,0,https://www.mtgjson.com/json/PVAN.json,Vanguard Series,PVAN,32,vanguard
+429,0,https://www.mtgjson.com/json/OVNT.json,Vintage Championship,OVNT,21,memorabilia
+430,325,https://www.mtgjson.com/json/VMA.json,Vintage Masters,VMA,325,masters
+431,167,https://www.mtgjson.com/json/VIS.json,Visions,VIS,167,expansion
+432,264,https://www.mtgjson.com/json/WAR.json,War of the Spark,WAR,311,expansion
+433,0,https://www.mtgjson.com/json/PWAR.json,War of the Spark Promos,PWAR,167,promo
+434,167,https://www.mtgjson.com/json/WTH.json,Weatherlight,WTH,167,expansion
+435,0,https://www.mtgjson.com/json/W16.json,Welcome Deck 2016,W16,16,starter
+436,0,https://www.mtgjson.com/json/W17.json,Welcome Deck 2017,W17,30,starter
+437,0,https://www.mtgjson.com/json/PWPN.json,Wizards Play Network 2008,PWPN,2,promo
+438,0,https://www.mtgjson.com/json/PWP09.json,Wizards Play Network 2009,PWP09,8,promo
+439,0,https://www.mtgjson.com/json/PWP10.json,Wizards Play Network 2010,PWP10,10,promo
+440,0,https://www.mtgjson.com/json/PWP11.json,Wizards Play Network 2011,PWP11,14,promo
+441,0,https://www.mtgjson.com/json/PWP12.json,Wizards Play Network 2012,PWP12,3,promo
+442,0,https://www.mtgjson.com/json/PWOS.json,Wizards of the Coast Online Store,PWOS,1,promo
+443,0,https://www.mtgjson.com/json/WC97.json,World Championship Decks 1997,WC97,130,memorabilia
+444,0,https://www.mtgjson.com/json/WC98.json,World Championship Decks 1998,WC98,116,memorabilia
+445,0,https://www.mtgjson.com/json/WC99.json,World Championship Decks 1999,WC99,109,memorabilia
+446,0,https://www.mtgjson.com/json/WC00.json,World Championship Decks 2000,WC00,116,memorabilia
+447,0,https://www.mtgjson.com/json/WC01.json,World Championship Decks 2001,WC01,137,memorabilia
+448,0,https://www.mtgjson.com/json/WC02.json,World Championship Decks 2002,WC02,152,memorabilia
+449,0,https://www.mtgjson.com/json/WC03.json,World Championship Decks 2003,WC03,141,memorabilia
+450,0,https://www.mtgjson.com/json/WC04.json,World Championship Decks 2004,WC04,102,memorabilia
+451,0,https://www.mtgjson.com/json/PWCQ.json,World Magic Cup Qualifiers,PWCQ,5,promo
+452,0,https://www.mtgjson.com/json/PWOR.json,Worlds,PWOR,1,promo
+453,145,https://www.mtgjson.com/json/WWK.json,Worldwake,WWK,145,expansion
+454,0,https://www.mtgjson.com/json/PWWK.json,Worldwake Promos,PWWK,6,promo
+455,0,https://www.mtgjson.com/json/PSS2.json,XLN Standard Showdown,PSS2,5,promo
+456,0,https://www.mtgjson.com/json/PXTC.json,XLN Treasure Chest,PXTC,10,promo
+457,249,https://www.mtgjson.com/json/ZEN.json,Zendikar,ZEN,269,expansion
+458,45,https://www.mtgjson.com/json/EXP.json,Zendikar Expeditions,EXP,45,masterpiece
+459,0,https://www.mtgjson.com/json/PZEN.json,Zendikar Promos,PZEN,5,promo
